@@ -89,7 +89,7 @@ This readme is resume of [this vídeo](https://www.youtube.com/watch?v=sjrW74Hx5
     git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
     echo 'source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh' >>~/.zshrc
 
-### Configure [zsh-autocomplete](https://github.com/zsh-users/zsh-autocomplete)
+### Configure [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
 
     git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git ~/.zsh/zsh-autocomplete
     echo 'source ~/.zsh/zsh-autocomplete/zsh-autocomplete.plugin.zsh' >>~/.zshrc
